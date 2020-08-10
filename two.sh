@@ -3,7 +3,7 @@
 #test file
 #some lines
 
-echo "hello world"
+echo "hello world!"
 echo "hello world"
 echo "hello world"
 echo "hello world"
